@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE generatorConfiguration
+        PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN"
+        "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
+
+<!--从generatorConfig生成的东西，将会从config.properties的数据库读取东西-->
+
+<generatorConfiguration>
+    <properties resource="config.properties"/>
+
+    <context id="Mysql" targetRuntime="MyBatis3Simple" defaultModelType="flat">
+        <property name="beginningDelimiter" value="`"/>
+        <property name="endingDelimiter" value="`"/>
+
+        <plugin type="tk.mybatis.mapper.generator.MapperPlugin">
+            <property name="mappers" value="tk.mybatis.mapper.common.Mapper"/>
+            <property name="caseSensitive" value="true"/>
+        </plugin>
+
+        <!--从对应config.properties配置的数据库读取东西，引入-->
+        <jdbcConnection driverClass="${jdbc.driverClass}"
+                        connectionURL="${jdbc.url}"
+                        userId="${jdbc.user}"
+                        password="${jdbc.password}">
+        </jdbcConnection>
+
+        <!--生成实体类entities-->
+        <javaModelGenerator targetPackage="${package.name}.entities" targetProject="src/main/java"/>
+
+        <!--生成接口mapper-->
+        <sqlMapGenerator targetPackage="${package.name}.mapper" targetProject="src/main/java"/>
+
+        <!--生成接口mapper的实现类xml-->
+        <javaClientGenerator targetPackage="${package.name}.mapper" targetProject="src/main/java" type="XMLMAPPER"/>
+
+        <!--数据库表名======================对应到实体名字-->
+        <table tableName="parentCategory" domainObjectName="ParentCategory">
+            <generatedKey column="id" sqlStatement="JDBC"/>
+        </table>
+
+        <table tableName="childrenCategory" domainObjectName="ChildrenCategory">
+            <generatedKey column="id" sqlStatement="JDBC"/>
+        </table>
+
+        <!--  seata_order -->
+        <table tableName="t_order" domainObjectName="Order">
+            <generatedKey column="id" sqlStatement="JDBC"/>
+        </table>
+
+        <!--seata_storage-->
+        <table tableName="t_storage" domainObjectName="Storage">
+            <generatedKey column="id" sqlStatement="JDBC"/>
+        </table>
+
+        <!--seata_account-->
+        <table tableName="t_account" domainObjectName="Account">
+            <generatedKey column="id" sqlStatement="JDBC"/>
+        </table>
+
+    </context>
+</generatorConfiguration>
+

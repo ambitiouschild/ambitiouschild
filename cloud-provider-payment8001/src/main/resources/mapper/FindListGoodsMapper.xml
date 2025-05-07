@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.lss.SpringCloud.mapper.FindListGoodsMapper">
+  <resultMap id="BaseResultMap" type="com.lss.SpringCloud.entities.FindListGoods">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="id" jdbcType="INTEGER" property="id" />
+    <result column="createTime" jdbcType="TIMESTAMP" property="createtime" />
+    <result column="updateTime" jdbcType="TIMESTAMP" property="updatetime" />
+    <result column="isDeleted" jdbcType="VARCHAR" property="isdeleted" />
+    <result column="category1Id" jdbcType="INTEGER" property="category1id" />
+    <result column="category2Id" jdbcType="INTEGER" property="category2id" />
+    <result column="name" jdbcType="VARCHAR" property="name" />
+    <result column="price" jdbcType="DECIMAL" property="price" />
+    <result column="marketPrice" jdbcType="DECIMAL" property="marketprice" />
+    <result column="saleCount" jdbcType="VARCHAR" property="salecount" />
+    <result column="stockCount" jdbcType="VARCHAR" property="stockcount" />
+    <result column="imageUrl" jdbcType="VARCHAR" property="imageurl" />
+    <result column="floralLanguage" jdbcType="VARCHAR" property="florallanguage" />
+    <result column="applyUser" jdbcType="VARCHAR" property="applyuser" />
+    <result column="material" jdbcType="VARCHAR" property="material" />
+    <result column="packing" jdbcType="VARCHAR" property="packing" />
+    <result column="isRecommend" jdbcType="VARCHAR" property="isrecommend" />
+    <result column="detailList" jdbcType="VARCHAR" property="detaillist" />
+  </resultMap>
+</mapper>

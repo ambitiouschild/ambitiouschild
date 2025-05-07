@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.lss.SpringCloud.mapper.ParentCategoryMapper">
+
+  <resultMap id="BaseResultMap" type="com.lss.SpringCloud.entities.ParentCategory">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="categoryListId" jdbcType="INTEGER" property="categoryListId" />
+    <result column="categoryList" jdbcType="VARCHAR" property="categoryList" />
+  </resultMap>
+
+  <!--Result Maps collection does not contain value for com.lss.SpringCloud.mapper.ParentCategoryMapper.childrenCategoryMap-->
+  <!--这说明 MyBatis 在映射结果时，找不到名为 childrenCategoryMap 的 ResultMap 定义-->
+  <!-- 主结果映射 -->
+  <resultMap id="parentCategoryMap" type="ParentCategory">
+    <id property="categoryListId" column="categoryListId"/>
+    <result property="categoryList" column="categoryList"/>
+    <!-- 嵌套子类集合 -->
+    <collection
+            property="childCategories"
+            ofType="ChildrenCategory"
+            resultMap="childrenCategoryMap"/> <!-- 确保此处引用的 resultMap 存在 -->
+  </resultMap>
+
+  <!-- 子类结果映射 -->
+  <resultMap id="childrenCategoryMap" type="ChildrenCategory">
+    <id property="id" column="id"/>
+    <result property="imageUrl" column="imageUrl"/>
+    <result property="name" column="name"/>
+    <result property="parentId" column="parent_id"/>
+  </resultMap>
+
+<!--  &lt;!&ndash; SQL 查询 &ndash;&gt;-->
+<!--  <select id="selectAll" resultMap="parentCategoryMap">-->
+<!--    SELECT-->
+<!--      p.categorylistid AS categoryListId,-->
+<!--      p.categorylist AS categoryList,-->
+<!--      c.id AS id,-->
+<!--      c.imageurl AS imageUrl,-->
+<!--      c.`name` AS name,-->
+<!--      c.parent_id AS parent_id-->
+<!--    FROM parentcategory p-->
+<!--           LEFT JOIN childrencategory c ON p.categorylistid = c.parent_id-->
+<!--    ORDER BY p.categorylistid ASC-->
+<!--  </select>-->
+
+</mapper>

@@ -1,0 +1,68 @@
+#file: noinspection SpringBootApplicationYaml
+# ==========端口号===================
+server:
+  port: 8001
+
+
+
+
+
+
+
+
+
+spring:
+  # ==========微服务的名称===================
+  # ==========applicationName + druid-mysql8 driver，德鲁伊的连接池===================
+
+  mvc:
+     static-path-pattern: /file/**
+  resources:
+      static-locations: file:F://file/,F://file/category,F://file/banner,F://file/images
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/mpshop?characterEncoding=utf8&useSSL=false&serverTimezone=GMT%2B8&rewriteBatchedStatements=true&allowPublicKeyRetrieval=true
+    username: root
+    password: 775825
+  profiles:
+    active: dev # 多环境配置加载内容dev/prod,不写就是默认default配置
+  web:
+    resources:
+      static-locations: file:F://file
+
+# ========================mybatis===================
+
+
+
+
+mybatis:
+  mapper-locations: classpath:mapper/*.xml #相当于要在路径下建一个文件夹mapper,放我们的mybatis.xml那些业务的实现类
+  type-aliases-package: com.lss.SpringCloud.entities  # 包名
+  configuration:
+    map-underscore-to-camel-case: true
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl # 输出 SQL 到控制台
+
+    # ========================zipkin===================
+management:
+  zipkin:
+    tracing:
+      endpoint: http://localhost:9411/api/v2/spans
+
+  tracing:
+    sampling:
+      probability: 1.0 #采样率默认为0.1(0.1就是10次只能有一次被记录下来)，值越大收集越及时。
+
+
+
+
+#启用 MyBatis SQL 日志
+
+#通过开启MyBatis的日志输出，查看ResultMap是否被正确注册
+logging:
+  level:
+    root: INFO
+    com.lss.SpringCloud.mapper: TRACE
+    org.springframework.web: ERROR
+
+
