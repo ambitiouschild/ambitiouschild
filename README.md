@@ -4,9 +4,6 @@
 **ambitiouschild/ambitiouschild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
--->
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,6 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
 
 #### My Lorde on Spotify 🎵
@@ -144,7 +142,7 @@ Here are some ideas to get you started:
         <h3>Open Up</h3>
     </summary>
 
-https://github.com/heartyang520/heartyang520/assets/51397676/31669bd8-ba37-4c64-8f64-3c40633c4072
+https://github.com/ambitiouschild/ambitiouschild/Vlog_lss.mp4
 
 
 
