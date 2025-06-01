@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/ambitiouschild/ambitiouschild/coding.gif" alt="Sample Image" style="display: block; margin: 0 auto;" >
+<div style="display: flex; justify-content: center; align-items: center;">
+      <img src="https://cdn.jsdelivr.net/gh/ambitiouschild/ambitiouschild/coding.gif" alt="Sample Image" >
+</div>
 
 
 #### My Lorde on Spotify 🎵
