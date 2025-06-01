@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy GitHub 资料奖杯](https://github-profile-trophy.vercel.app/?username=ambitiouschild&row=1&margin-w=10&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy GitHub 资料奖杯](https://github-profile-trophy.vercel.app/?username=ambitiouschild&row=1&margin-w=10&theme=dark_lover)
 
 ![ambitiouschild's github activity graph GitHub 活动统计图](https://github-readme-activity-graph.vercel.app/graph?username=ambitiouschild&theme=xcode)
 
-[![ambitiouschild's github stats GitHub 统计卡片](https://github-readme-stats.vercel.app/api?username=ambitiouschild)](https://github.com/anuraghazra/github-readme-stats)
+[![ambitiouschild's github stats GitHub 统计卡片](https://github-readme-stats.vercel.app/api?username=ambitiouschild)
 
 ![ambitiouschild's GitHub stats 修仙系列统计卡片](https://github-immortality.vercel.app/api?username=ambitiouschild)
 
