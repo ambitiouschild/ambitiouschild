@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ![ambitiouschild's GitHub stats 修仙系列统计卡片](https://github-immortality.vercel.app/api?username=ambitiouschild)
 
-[![亮色](https://raw.githubusercontent.com/ambitiouschild/ambitiouschild/output/github-contribution-grid-snake.svg)
+![亮色](https://raw.githubusercontent.com/ambitiouschild/ambitiouschild/output/github-contribution-grid-snake.svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ambitiouschild)
 
@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/aioveu-可我不敌可爱-blue.svg)](https://aioveu.com)
 
-[![Profile views GitHub 访客徽章](https://views.whatilearened.today/views/github/ambitiouschild/views.svg)
+![Profile views GitHub 访客徽章](https://views.whatilearened.today/views/github/ambitiouschild/views.svg)
 
-[![](https://img.shields.io/badge/ubuntu-20.04-<COLOR>.svg)
+![](https://img.shields.io/badge/ubuntu-20.04-<COLOR>.svg)
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
