@@ -1,4 +1,4 @@
-## Hi I am 可我不敌可爱 Full Stack Developer👋
+## Hi I am Full Stack Developer 可我不敌可爱
 
 <!--
 **ambitiouschild/ambitiouschild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
