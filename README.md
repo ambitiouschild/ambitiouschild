@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+<!-- knock code pictures 敲代码的图片 -->
+  <img src="https://github.com/ambitiouschild/ambitiouschild/coding.gif" /><br>
+
 
 #### My Lorde on Spotify 🎵
 
