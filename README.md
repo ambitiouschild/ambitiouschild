@@ -45,6 +45,14 @@ Here are some ideas to get you started:
 <!--资源更新地址<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/XXXX.gif?raw=true>
 -->
 
+
+<details>
+    <summary>
+        <h3>Open Up</h3>
+    </summary>
+
+https://github.com/heartyang520/heartyang520/assets/51397676/31669bd8-ba37-4c64-8f64-3c40633c4072
+
 #### My Lorde on Spotify 🎵
 
 [![Data Card for Spotify](https://data-card-for-spotify.herokuapp.com/api/card?user_id=1ujkct573ekv7kppapyrom8m3&show_border=true&show_date=1&time_zone=America/Los_Angeles
