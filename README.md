@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I am 可我不敌可爱 Full Stack Developer👋
 
 <!--
 **ambitiouschild/ambitiouschild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-<!-- knock code pictures 敲代码的图片 -->
       <img src="https://cdn.jsdelivr.net/gh/ambitiouschild/ambitiouschild/coding.gif">
 </div>
 
@@ -34,9 +33,13 @@ Here are some ideas to get you started:
 
 
 #### My top 
-<img height="130px" src="https://github-readme-stats.vercel.app/api?username=ambitiouschild&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="ambitiouschild's GitHub Stats"> 
-<img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambitiouschild&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
+<img height="130px" src="https://github-readme-stats.vercel.app/api?username=ambitiouschild&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="ambitiouschild's GitHub Stats"> 
 
+<img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambitiouschild&layout=compact&theme=graywhite&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
+
+![ambitiouschild's github stats](https://github-readme-stats.vercel.app/api?username=ambitiouschild)
+
+![ambitiouschild's GitHub stats](https://github-immortality.vercel.app/api?username=ambitiouschild)
 
 <picture>
   <source
@@ -57,19 +60,13 @@ Here are some ideas to get you started:
   />
 </picture>
 
-![Profile views GitHub 访客徽章](https://views.whatilearened.today/views/github/ambitiouschild/views.svg)
+![ambitiouschild's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ambitiouschild&theme=xcode)
 
-![trophy GitHub 资料奖杯](https://github-profile-trophy.vercel.app/?username=ambitiouschild&row=1&margin-w=10&theme=dark_lover)
+![trophy GitHub](https://github-profile-trophy.vercel.app/?username=ambitiouschild&row=1&margin-w=10&theme=dark_lover)
 
-![ambitiouschild's github activity graph GitHub 活动统计图](https://github-readme-activity-graph.vercel.app/graph?username=ambitiouschild&theme=xcode)
+![Light](https://raw.githubusercontent.com/ambitiouschild/ambitiouschild/output/github-contribution-grid-snake.svg)
 
-![ambitiouschild's github stats GitHub 统计卡片](https://github-readme-stats.vercel.app/api?username=ambitiouschild)
-
-![ambitiouschild's GitHub stats 修仙系列统计卡片](https://github-immortality.vercel.app/api?username=ambitiouschild)
-
-![亮色](https://raw.githubusercontent.com/ambitiouschild/ambitiouschild/output/github-contribution-grid-snake.svg)
-
-
+![Profile views GitHub](https://views.whatilearened.today/views/github/ambitiouschild/views.svg)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ambitiouschild)
 [![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](ambitiouschild@qq.com)
 [![](https://img.shields.io/badge/aioveu-可我不敌可爱-blue.svg)](https://aioveu.com)
@@ -87,12 +84,7 @@ Here are some ideas to get you started:
 ![Elastic](https://img.shields.io/badge/Elasticsearch-FEC514?style=flat-square&logo=Elastic&logoColor=white)
 ![](https://img.shields.io/badge/Cocos%20creator-blue.svg)
 
-
-
-
-![Top Langs GitHub 使用语言统计](https://github-readme-stats.vercel.app/api/top-langs/?username=Taot-chen&size_weight=0.5&count_weight=0.5&langs_count=8)
-
-
+![Top Langs GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Taot-chen&size_weight=0.5&count_weight=0.5&langs_count=8)
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,java,kotlin,nodejs,figma,aws,gcp,azure,react,vue,flutter&theme=light)](https://skillicons.dev)
@@ -102,7 +94,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-#### Top Repositories GitHub Gist Pins
+#### Top Repositories
 
 <a href="https://github.com/ambitiouschild/ambitiouschild">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ambitiouschild&repo=ambitiouschild&theme=buefy" />
@@ -111,12 +103,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/ambitiouschild/ambitiouschild">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ambitiouschild&repo=ambitiouschild&theme=buefy" />
 </a>
-
-
-
-
-
-
 
 
 
