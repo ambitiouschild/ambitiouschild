@@ -82,7 +82,7 @@ Here are some ideas to get you started:
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=1ujkct573ekv7kppapyrom8m3" alt="Data Card for Spotify">
 </a>
 
-[![Data Card for Spotify](https://data-card-for-spotify.herokuapp.com/api/card?user_id=1ujkct573ekv7kppapyrom8m3show_border=true&show_date=1&time_zone=America/Los_Angeles
+[![Data Card for Spotify](https://data-card-for-spotify.herokuapp.com/api/card?user_id=1ujkct573ekv7kppapyrom8m3&show_border=true&show_date=1&time_zone=America/Los_Angeles
 )](https://data-card-for-spotify.herokuapp.com/card?user_id=1ujkct573ekv7kppapyrom8m3)
 
 
