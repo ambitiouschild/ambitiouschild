@@ -78,8 +78,8 @@ Here are some ideas to get you started:
 </a>
 
 
-<a href="card_page_link">
-  <img src="card_image_link" alt="Data Card for Spotify">
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=1ujkct573ekv7kppapyrom8m3">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=1ujkct573ekv7kppapyrom8m3" alt="Data Card for Spotify">
 </a>
 
 [![Data Card for Spotify](https://data-card-for-spotify.herokuapp.com/card?user_id=1ujkct573ekv7kppapyrom8m3)](https://data-card-for-spotify.herokuapp.com/api/card?user_id=1ujkct573ekv7kppapyrom8m3)
