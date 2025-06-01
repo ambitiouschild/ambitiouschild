@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://github.com/ambitiouschild/ambitiouschild/coding.gif" /><br>
+  <img src="https://cdn.jsdelivr.net/gh/ambitiouschild/ambitiouschild/coding.gif" /><br>
 
 
 #### My Lorde on Spotify 🎵
