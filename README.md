@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 -->
 
 
+
 <!-- knock code pictures 敲代码的图片 -->
 <div style="display: flex; justify-content: center; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/ambitiouschild/ambitiouschild/coding.gif" alt="Sample Image" >
+      <img src="https://cdn.jsdelivr.net/gh/ambitiouschild/ambitiouschild/coding.gif">
 </div>
 
 
