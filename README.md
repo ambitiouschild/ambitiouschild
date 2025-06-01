@@ -15,6 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://api.star-history.com/svg?repos=star-history/star-history&type=Date&theme=dark
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://api.star-history.com/svg?repos=star-history/star-history&type=Date
+    "
+  />
+  <img
+    alt="Star History Chart"
+    src="https://api.star-history.com/svg?repos=star-history/star-history&type=Date"
+  />
+</picture>
+
+
 ![trophy GitHub 资料奖杯](https://github-profile-trophy.vercel.app/?username=ambitiouschild&row=1&margin-w=10&theme=dark_lover)
 
 ![ambitiouschild's github activity graph GitHub 活动统计图](https://github-readme-activity-graph.vercel.app/graph?username=ambitiouschild&theme=xcode)
