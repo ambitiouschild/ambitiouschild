@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 #### Top Repositories
 
-<a href="https://github.com/ambitiouschild/PyTopicsApiExplore">
+<a href="https://github.com/ambitiouschild/ambitiouschild">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ambitiouschild&repo=ambitiouschild&theme=buefy" />
 </a>
 
-<a href="https://github.com/ambitiouschild/Python_Spider_All">
+<a href="https://github.com/ambitiouschild/ambitiouschild">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ambitiouschild&repo=ambitiouschild&theme=buefy" />
 </a>
 
