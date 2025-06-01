@@ -15,8 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![trophy GitHub 资料奖杯](https://github-profile-trophy.vercel.app/?username=ambitiouschild&row=1&margin-w=10&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![ambitiouschild's github stats](https://github-readme-stats.vercel.app/api?username=ambitiouschild)](https://github.com/anuraghazra/github-readme-stats)
+![ambitiouschild's github activity graph GitHub 活动统计图](https://github-readme-activity-graph.vercel.app/graph?username=ambitiouschild&theme=xcode)
+
+[![ambitiouschild's github stats GitHub 统计卡片](https://github-readme-stats.vercel.app/api?username=ambitiouschild)](https://github.com/anuraghazra/github-readme-stats)
+
+![ambitiouschild's GitHub stats 修仙系列统计卡片](https://github-immortality.vercel.app/api?username=ambitiouschild)
 
 ![亮色](https://raw.githubusercontent.com/ambitiouschild/ambitiouschild/output/github-contribution-grid-snake.svg)
 
@@ -26,7 +31,7 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/aioveu-可我不敌可爱-blue.svg)](https://aioveu.com)
 
-![Profile views](https://views.whatilearened.today/views/github/ambitiouschild/views.svg)
+![Profile views GitHub 访客徽章](https://views.whatilearened.today/views/github/ambitiouschild/views.svg)
 
 ![](https://img.shields.io/badge/ubuntu-20.04-<COLOR>.svg)
 
@@ -48,9 +53,21 @@ Here are some ideas to get you started:
 
 <img height="130px" src="https://github-readme-stats.vercel.app/api?username=ambitiouschild&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="ambitiouschild's GitHub Stats"> 
 
+![Top Langs GitHub 使用语言统计](https://github-readme-stats.vercel.app/api/top-langs/?username=Taot-chen&size_weight=0.5&count_weight=0.5&langs_count=8)
+
 <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambitiouschild&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
 
-#### Top Repositories
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
+#### Top Repositories GitHub Gist Pins
 
 <a href="https://github.com/ambitiouschild/ambitiouschild">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ambitiouschild&repo=ambitiouschild&theme=buefy" />
@@ -59,4 +76,12 @@ Here are some ideas to get you started:
 <a href="https://github.com/ambitiouschild/ambitiouschild">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ambitiouschild&repo=ambitiouschild&theme=buefy" />
 </a>
+
+<a href="card_page_link">
+  <img src="card_image_link" alt="Data Card for Spotify">
+</a>
+
+[![Data Card for Spotify](card_image_link)](card_page_link)
+
+https://data-card-for-spotify.herokuapp.com/api/card?user_id=12146253656&show_border=true&show_date=1&time_zone=America/Los_Angeles&custom_title=Custom%20Title&hide_title=1
 
